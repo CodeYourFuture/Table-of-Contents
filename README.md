@@ -24,11 +24,11 @@ There are template repos to help us do this:
 - Week 2. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week2-Solution)
 - Week 3. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week3-Solution)
 ### JS2
-- Week 1. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week-Solution)
+- Week 1. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week1-Solution)
 - Week 2. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week2-Solution)
 - Week 3. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week3-Solution)
 ### JS3
-- Week 1. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week-Solution)
+- Week 1. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week1-Solution)
 - Week 2. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week2-Solution)
 - Week 3. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week3-Solution)
 ### React
