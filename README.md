@@ -1,15 +1,19 @@
 # Table of Contents / Org Menu
-Where everything is on this gigantic messy org account
+Where everything is on this gigantic messy org account. Please add any crucial module links.
+
+[Git](#git) | [HTML-CSS](#html-css) | [JS1](#js1) | [JS2](#js2) | [JS3](#js3) | [React](#react) | [Node](#node) | [Databases](#databases) | [Final Projects](#final-projects)
 
 ## Module Repos
-Each week in the Syllabus should have its own coursework repo. The naming structure should be consistent
+Each week in the Syllabus should have its own coursework repo. The naming structure _should_ be consistent
 - **Coursework** https://github.com/CodeYourFuture/Module-Name-Coursework-Week1
 - **Coursework Solutions** https://github.com/CodeYourFuture/Module-Name-Coursework-Week1-Solution
 - **Classwork** https://github.com/CodeYourFuture/Module-Name-Classwork-Week1 _CAN YOU HELP BUILD THIS?_
 - **Classwork Solutions** https://github.com/CodeYourFuture/Module-Name-Classwork-Week1-Solution _CAN YOU HELP BUILD THIS?_
+There are template repos to help us do this: 
+- https://github.com/CodeYourFuture/CYF-Coursework-Template 
+- https://github.com/CodeYourFuture/CYF-Classwork-Template
 
-There are template repos: https://github.com/CodeYourFuture/CYF-Coursework-Template https://github.com/CodeYourFuture/CYF-Classwork-Template
-### Git
+### Git 
 - [Coursework](https://github.com/CodeYourFuture/Git-CLI-Coursework) | ??
 ### HTML-CSS
 - Week 1. [Coursework](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week1) | [Coursework Solution](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week1-Solution)
