@@ -24,25 +24,34 @@ We are (over 2022) building a module project for each module. These will be name
 - Week 2. [Coursework](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2) | [Coursework Solution](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2-Solution)
 - Week 3. [Coursework](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week3) | [Coursework Solution](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week3-Solution)
 - Module Project. [Project](https://github.com/CodeYourFuture/HTML-CSS-Module-Project) | [Project Solution](https://github.com/CodeYourFuture/HTML-CSS-Module-Project-Solution)
+- Challenges. [Challenges](https://github.com/CodeYourFuture/HTML-CSS-Challenges) | [Solution](https://github.com/CodeYourFuture/HTML-CSS-Challenges-Solution)
 ### JS1
 - Week 1. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week1-Solution)
 - Week 2. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week2-Solution)
 - Week 3. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week3-Solution)
+- [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-1-Assessment)
 ### JS2
 - Week 1. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week1-Solution)
 - Week 2. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week2-Solution)
 - Week 3. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week3-Solution)
+- [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-2-Assessment)
 ### JS3
 - Week 1. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week1-Solution)
 - Week 2. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week2-Solution)
 - Week 3. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week3-Solution)
+- Module Project. [Project](https://github.com/CodeYourFuture/tv-show-dom-project) | [Solution](https://github.com/CodeYourFuture/tv-show-dom-project-solution)
+- [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-3-Assessment)
+
 ### React
 React has one project for all three weeks
-- [Coursework](https://github.com/CodeYourFuture/CYF-React-Coursework) | [Solution](https://github.com/CodeYourFuture/CYF-React-Coursework-Solution)
+- [Coursework](https://github.com/CodeYourFuture/CYF-React-Coursework) | [Solution](https://github.com/CodeYourFuture/CYF-React-Coursework-Solution) 
 ### Node
 Node still needs to be organised along the lines of the previous modules - Can you do this?
 - https://github.com/CodeYourFuture/NodeJS-Homework 
 - https://github.com/CodeYourFuture/Node-Starter-Kit
+
+https://github.com/CodeYourFuture/node-challenge-hotel-server-solution/
+
 ### Databases
 - Week 1. [Coursework](https://github.com/CodeYourFuture/SQL-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/SQL-Coursework-Week-Solution)
 - Week 2. [Coursework](https://github.com/CodeYourFuture/SQL-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/SQL-Coursework-Week2-Solution)
