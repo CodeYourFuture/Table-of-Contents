@@ -64,5 +64,8 @@ https://github.com/CodeYourFuture/node-challenge-hotel-server-solution/
 ### Final Projects
 - https://github.com/CodeYourFuture/cyf-final-project-starter-kit 
 
+### Group Projects
+- https://github.com/CodeYourFuture/group-projects
+
 ## Syllabus
 Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project boards happen here: https://github.com/CodeYourFuture/syllabus/projects
