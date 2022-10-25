@@ -69,3 +69,16 @@ https://github.com/CodeYourFuture/node-challenge-hotel-server-solution/
 
 ## Syllabus
 Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project boards happen here: https://github.com/CodeYourFuture/syllabus/projects
+
+
+## Tracks and Programmes
+
+### Immersive Engineering
+- https://github.com/CodeYourFuture/immersive-go-course
+
+### Quality Engineering
+- https://github.com/CodeYourFuture/QE-Track
+
+### Cloud Track
+- https://github.com/CodeYourFuture/Cloud-Module-Week-0-Challenge
+
