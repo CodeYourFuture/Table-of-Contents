@@ -48,14 +48,16 @@ We are (over 2022) building a module project for each module. These will be name
 - Challenges. [Challenges](https://github.com/CodeYourFuture/JavaScript-Core-3-Challenges) | [Solution](https://github.com/CodeYourFuture/JavaScript-Core-3-Challenges-Solution)
 
 ### React
-React has one project for all three weeks
+The React module isn't organised like the previous modules yet. 
 - [Coursework](https://github.com/CodeYourFuture/CYF-React-Coursework) | [Solution](https://github.com/CodeYourFuture/CYF-React-Coursework-Solution) 
+- [Challenges](https://github.com/CodeYourFuture/cyf-react-challenges) <= needs updating
+
 ### Node
 Node still needs to be organised along the lines of the previous modules - Can you do this?
 - https://github.com/CodeYourFuture/NodeJS-Homework 
 - https://github.com/CodeYourFuture/Node-Starter-Kit
-
-https://github.com/CodeYourFuture/node-challenge-hotel-server-solution/
+- https://github.com/CodeYourFuture/cyf-node-challenges
+- https://github.com/CodeYourFuture/node-challenge-hotel-server-solution/
 
 ### Databases
 - Week 1. [Coursework](https://github.com/CodeYourFuture/SQL-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/SQL-Coursework-Week-Solution)
