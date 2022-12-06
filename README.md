@@ -54,16 +54,18 @@ The React module isn't organised like the previous modules yet.
 - [Challenges](https://github.com/CodeYourFuture/cyf-react-challenges) <= needs updating
 
 ### Node
-Node still needs to be organised along the lines of the previous modules - Can you do this?
-- https://github.com/CodeYourFuture/NodeJS-Homework 
-- https://github.com/CodeYourFuture/Node-Starter-Kit
-- https://github.com/CodeYourFuture/cyf-node-challenges
-- https://github.com/CodeYourFuture/node-challenge-hotel-server-solution/
+- Week 1. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week1) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week1-Solution)
+- Week 2. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week2) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week2-Solution)
+- Week 3. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week3) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week3-Solution)
+- Week 4. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week4) | ???
+
 
 ### Databases
 - Week 1. [Coursework](https://github.com/CodeYourFuture/SQL-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/SQL-Coursework-Week-Solution)
 - Week 2. [Coursework](https://github.com/CodeYourFuture/SQL-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/SQL-Coursework-Week2-Solution)
 - Week 3. [Coursework](https://github.com/CodeYourFuture/SQL-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/SQL-Coursework-Week3-Solution)
+- Module Project. [Full Stack Project Assessment](https://github.com/CodeYourFuture/Full-Stack-Project-Assessment)
+
 ### Final Projects
 - https://github.com/CodeYourFuture/cyf-final-project-starter-kit 
 
