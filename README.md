@@ -72,6 +72,7 @@ The React module isn't organised like the previous modules yet.
 ### Group Projects
 - https://github.com/CodeYourFuture/group-projects
 - https://github.com/CodeYourFuture/CYF-Incremental-Development-Project
+- https://github.com/CodeYourFuture/CYF-Code-Review-Group-Project
 
 ## Syllabus
 Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project boards happen here: https://github.com/CodeYourFuture/syllabus/projects
