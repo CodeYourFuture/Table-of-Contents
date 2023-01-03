@@ -71,6 +71,7 @@ The React module isn't organised like the previous modules yet.
 
 ### Group Projects
 - https://github.com/CodeYourFuture/group-projects
+- https://github.com/CodeYourFuture/CYF-Incremental-Development-Project
 
 ## Syllabus
 Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project boards happen here: https://github.com/CodeYourFuture/syllabus/projects
@@ -86,4 +87,12 @@ Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project 
 
 ### Cloud Track
 - https://github.com/CodeYourFuture/Cloud-Module-Week-0-Challenge
+
+### Front End Track
+- https://github.com/CodeYourFuture/Web-Developer-Requirements-Project
+- https://github.com/CodeYourFuture/CYF-Record-A-Goose-Project 
+- https://github.com/CodeYourFuture/wordpress-module
+
+
+
 
