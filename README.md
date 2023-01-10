@@ -65,7 +65,7 @@ The React module isn't organised like the previous modules yet.
 - Week 2. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week2) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week2-Solution)
 - Week 3. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week3) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week3-Solution)
 - Week 4. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week4) | [Coursework Solution](https://github.com/CodeYourFuture/CodeYourFuture-Node-Coursework-Week4-Solution)
-- Module Project. [Project[(https://github.com/CodeYourFuture/CYF-Slack-Your-Future-Project-Backend) | Solution???
+- Module Project. [Project](https://github.com/CodeYourFuture/CYF-Slack-Your-Future-Project-Backend) | Solution???
 
 
 ### Databases
