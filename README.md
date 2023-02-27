@@ -83,6 +83,7 @@ The React module isn't organised like the previous modules yet.
 - https://github.com/CodeYourFuture/CYF-Code-Review-Group-Project
 - https://github.com/CodeYourFuture/group-project-jsf-time
 - https://github.com/CodeYourFuture/terminal-tic-tac-toe
+- https://github.com/CodeYourFuture/1000-Paper-Cranes
 
 ## Syllabus
 Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project boards happen here: https://github.com/CodeYourFuture/syllabus/projects
@@ -106,6 +107,7 @@ Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project 
 - https://github.com/CodeYourFuture/DevOps-Advanced-Shared-Server
 
 ### Front End Track
+- https://github.com/CodeYourFuture/1000-Paper-Cranes
 - https://github.com/CodeYourFuture/Web-Developer-Requirements-Project
 - https://github.com/CodeYourFuture/CYF-Record-A-Goose-Project 
 - https://github.com/CodeYourFuture/CYF-Sass-In-React
