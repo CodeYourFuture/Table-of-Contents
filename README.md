@@ -61,7 +61,7 @@ The React module isn't organised like the previous modules yet.
 - [Check In Assessment](https://github.com/CodeYourFuture/React-Assessment)
 
 ### Node
-- Week 1. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week1) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week1-Solution)
+- Week 1. [Coursework](https://github.com/CodeYourFuture/quote-server) | [Coursework Solution](https://github.com/CodeYourFuture/quote-server-solution)
 - Week 2. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week2) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week2-Solution)
 - Week 3. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week3) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week3-Solution)
 - Week 4. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week4) | [Coursework Solution](https://github.com/CodeYourFuture/CodeYourFuture-Node-Coursework-Week4-Solution)
