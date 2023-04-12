@@ -47,9 +47,7 @@ We are (over 2022) building a module project for each module. These will be name
 - [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-2-Assessment)
 - Challenges. [Challenges](https://github.com/CodeYourFuture/JavaScript-Core-2-Challenges) | [Solution](https://github.com/CodeYourFuture/JavaScript-Core-2-Challenges-Solution)
 ### JS3
-- Week 1. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week1-Solution)
-- Week 2. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week2-Solution)
-- Week 3. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week3-Solution)
+- [JS3 Module repo](https://github.com/orgs/CodeYourFuture/projects/83/views/4)
 - Module Project. [Project](https://github.com/CodeYourFuture/tv-show-dom-project) | [Solution](https://github.com/CodeYourFuture/tv-show-dom-project-solution)
 - [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-3-Assessment)
 - Challenges. [Challenges](https://github.com/CodeYourFuture/JavaScript-Core-3-Challenges) | [Solution](https://github.com/CodeYourFuture/JavaScript-Core-3-Challenges-Solution)
