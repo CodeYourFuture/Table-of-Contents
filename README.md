@@ -1,7 +1,7 @@
 # Table of Contents / Org Menu
 Where everything is on this gigantic messy org account. Please add any crucial module links.
 
-[Git](#git) | [HTML-CSS](#html-css) | [JS1](#js1) | [JS2](#js2) | [JS3](#js3) | [React](#react) | [Node](#node) | [Databases](#databases) | [Final Projects](#final-projects)
+[Git](#git) | [HTML-CSS](#html-css) | [JS1](#js1) | [JS2](#js2) | [JS3](#js3) | [React](#react) | [Node](#node) | [Databases](#databases) | [Final Projects](#final-projects) | [CYF Workshops](#cyf-workshops)
 
 ## Module Repos
 Each week in the Syllabus should have its own coursework repo. The naming structure for mandatory work _should_ be consistent
@@ -88,6 +88,8 @@ The React module isn't organised like the previous modules yet.
 ## Syllabus
 Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project boards happen here: https://github.com/CodeYourFuture/syllabus/projects
 
+## CYF-Workshops
+CYF Workshops is a collection of workshop-based activities designed to develop and enrich understanding of the course content. They're used most often during an in-person session on Saturday.
 
 ## Tracks and Programmes
 
