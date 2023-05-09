@@ -89,7 +89,7 @@ The React module isn't organised like the previous modules yet.
 Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project boards happen here: https://github.com/CodeYourFuture/syllabus/projects
 
 ## CYF-Workshops
-CYF Workshops is a collection of workshop-based activities designed to develop and enrich understanding of the course content. They're used most often during an in-person session on Saturday.
+CYF Workshops is a collection of workshop-based activities designed to develop and enrich understanding of the course content. The repo can be found here: https://github.com/CodeYourFuture/CYF-Workshops. These activities are used most often during an in-person session ( typically held on a Saturday ). 
 
 ## Tracks and Programmes
 
