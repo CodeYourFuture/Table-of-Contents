@@ -4,74 +4,48 @@ Where everything is on this gigantic messy org account. Please add any crucial m
 [Git](#git) | [HTML-CSS](#html-css) | [JS1](#js1) | [JS2](#js2) | [JS3](#js3) | [React](#react) | [Node](#node) | [Databases](#databases) | [Final Projects](#final-projects)
 
 ## Module Repos
-Each week in the Syllabus should have its own coursework repo. The naming structure for mandatory work _should_ be consistent
-- **Coursework** https://github.com/CodeYourFuture/Module-Name-Coursework-Week1
-- **Coursework Solutions** https://github.com/CodeYourFuture/Module-Name-Coursework-Week1-Solution
-- **Classwork** https://github.com/CodeYourFuture/Module-Name-Classwork-Week1 _CAN YOU HELP BUILD THIS?_
-- **Classwork Solutions** https://github.com/CodeYourFuture/Module-Name-Classwork-Week1-Solution _CAN YOU HELP BUILD THIS?_
-There are template repos to help us do this: 
-- https://github.com/CodeYourFuture/CYF-Coursework-Template 
-- https://github.com/CodeYourFuture/CYF-Classwork-Template
+Each module should have its own coursework repo. The naming structure for mandatory work _should_ be consistent
+- **Coursework** https://github.com/CodeYourFuture/Module-Name
+- **Solution Guides** should be stored in a solutions branch
+There is a template repo to help us do this: 
+- https://github.com/CodeYourFuture/CYF-Module-Template 
 
-We are (over 2022) building a module project for each module. These will be named like this:
-- https://github.com/CodeYourFuture/Module-Name-Module-Project
-- https://github.com/CodeYourFuture/Module-Name-Module-Project-Solution
-
-### Fundamentals
+### Fundamentals, useful repos
+- Course Repo https://github.com/CodeYourFuture/Course-Fundamentals
 - https://github.com/CodeYourFuture/cyf-blocks-fundamentals
 - https://github.com/CodeYourFuture/Ship-It
-
-### Git 
-- [Coursework](https://github.com/CodeYourFuture/Git-CLI-Coursework) | ??
-- https://github.com/CodeYourFuture/GitHomeworkFixErrors
+- https://github.com/CodeYourFuture/Coursework-Planner <== every trainee has one planner for all their work in all courses and modules
 
 ### HTML-CSS
-- Week 1. [Coursework](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week1) | [Coursework Solution](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week1-Solution)
-- Week 2. [Coursework](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2) | [Coursework Solution](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week2-Solution)
-- Week 3. [Coursework](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week3) | [Coursework Solution](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week3-Solution)
-- Week 4. [Coursework](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week4) | ?
+- Module Repo https://github.com/CodeYourFuture/Module-HTML-CSS
 - Module Project. [Project](https://github.com/CodeYourFuture/HTML-CSS-Module-Project) | [Project Solution](https://github.com/CodeYourFuture/HTML-CSS-Module-Project-Solution)
-- Challenges. [Challenges](https://github.com/CodeYourFuture/HTML-CSS-Challenges) | [Solution](https://github.com/CodeYourFuture/HTML-CSS-Challenges-Solution)
+- https://github.com/CodeYourFuture/Portfolio <== every trainee develops this portfolio over the entire programme
+
 ### JS1
-- Week 1. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week1-Solution)
-- Week 2. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week2-Solution)
-- Week 3. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week3-Solution)
-- Week 4. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week4) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week4-Solution)
+- Module Repo https://github.com/CodeYourFuture/Module-JS1
+- Module Project: https://github.com/CodeYourFuture/CYF-Incremental-Development-Project
 - [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-1-Assessment)
-- Challenges. [Challenges](https://github.com/CodeYourFuture/JavaScript-Core-1-Challenges) | [Solution](https://github.com/CodeYourFuture/JavaScript-Core-1-Challenges-Solution)
+
 ### JS2
-- Week 1. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week1-Solution)
-- Week 2. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week2-Solution)
-- Week 3. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week3-Solution) | [Classwork]( https://github.com/CodeYourFuture/JavaScript-Core-2-Classwork-Week3)
-- Week 4. [Coursework]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week4) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week4-Solution) | [Classwork]( https://github.com/CodeYourFuture/JavaScript-Core-2-Classwork-Week4) | [Classwork Solution]( https://github.com/CodeYourFuture/JavaScript-Core-2-Classwork-Week4-Solution)
+- Module Repo https://github.com/CodeYourFuture/Module-JS2
 - [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-2-Assessment)
-- Challenges. [Challenges](https://github.com/CodeYourFuture/JavaScript-Core-2-Challenges) | [Solution](https://github.com/CodeYourFuture/JavaScript-Core-2-Challenges-Solution)
+
 ### JS3
-- Week 1. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week1-Solution)
-- Week 2. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week2-Solution)
-- Week 3. [Coursework](https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week3-Solution)
+- Module Repo https://github.com/CodeYourFuture/Module-JS3
 - Module Project. [Project](https://github.com/CodeYourFuture/tv-show-dom-project) | [Solution](https://github.com/CodeYourFuture/tv-show-dom-project-solution)
 - [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-3-Assessment)
-- Challenges. [Challenges](https://github.com/CodeYourFuture/JavaScript-Core-3-Challenges) | [Solution](https://github.com/CodeYourFuture/JavaScript-Core-3-Challenges-Solution)
 
 ### React
-The React module isn't organised like the previous modules yet. 
-- [Coursework](https://github.com/CodeYourFuture/CYF-React-Coursework) | [Solution](https://github.com/CodeYourFuture/CYF-React-Coursework-Solution) 
-- [Challenges](https://github.com/CodeYourFuture/cyf-react-challenges) <= needs updating
+- Module Repo https://github.com/CodeYourFuture/Module-React
+- Module Project https://github.com/CodeYourFuture/cyf-hotel-react 
 - [Check In Assessment](https://github.com/CodeYourFuture/React-Assessment)
 
 ### Node
-- Week 1. [Coursework](https://github.com/CodeYourFuture/quote-server) | [Coursework Solution](https://github.com/CodeYourFuture/quote-server-solution)
-- Week 2. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week2) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week2-Solution)
-- Week 3. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week3) | [Coursework Solution](https://github.com/CodeYourFuture/Node-Coursework-Week3-Solution)
-- Week 4. [Coursework](https://github.com/CodeYourFuture/Node-Coursework-Week4) | [Coursework Solution](https://github.com/CodeYourFuture/CodeYourFuture-Node-Coursework-Week4-Solution)
-- Module Project. [Project](https://github.com/CodeYourFuture/CYF-Slack-Your-Future-Project-Backend) | Solution???
-
+- Module Repo https://github.com/CodeYourFuture/Module-Node
+- Module Project [Project](https://github.com/CodeYourFuture/CYF-Slack-Your-Future-Project-Backend) | Solution???
 
 ### Databases
-- Week 1. [Coursework](https://github.com/CodeYourFuture/SQL-Coursework-Week1) | [Coursework Solution]( https://github.com/CodeYourFuture/SQL-Coursework-Week-Solution)
-- Week 2. [Coursework](https://github.com/CodeYourFuture/SQL-Coursework-Week2) | [Coursework Solution]( https://github.com/CodeYourFuture/SQL-Coursework-Week2-Solution)
-- Week 3. [Coursework](https://github.com/CodeYourFuture/SQL-Coursework-Week3) | [Coursework Solution]( https://github.com/CodeYourFuture/SQL-Coursework-Week3-Solution)
+- Module Repo https://github.com/CodeYourFuture/Module-Databases
 - Module Project. [Full Stack Project Assessment](https://github.com/CodeYourFuture/Full-Stack-Project-Assessment)
 
 ### Final Projects
@@ -85,9 +59,20 @@ The React module isn't organised like the previous modules yet.
 - https://github.com/CodeYourFuture/terminal-tic-tac-toe
 - https://github.com/CodeYourFuture/1000-Paper-Cranes
 
-## Syllabus
-Syllabus lives here: https://github.com/CodeYourFuture/syllabus and the project boards happen here: https://github.com/CodeYourFuture/syllabus/projects
+## Solo Projects
+- https://github.com/CodeYourFuture/Codewars-API-Project
+- https://github.com/CodeYourFuture/GitHub-Activity-Project
+- https://github.com/CodeYourFuture/CLI-Treasure-Hunt
 
+### Workshops live here in folders
+https://github.com/CodeYourFuture/CYF-Workshops 
+
+## Syllabus
+Syllabus is on the move! It lives here: https://github.com/CodeYourFuture/syllabus (soon moving to  https://github.com/CodeYourFuture/curriculum) and the project board is here: https://github.com/orgs/CodeYourFuture/projects/35
+
+We are building a module project repo for each module. These will be named like this:
+- https://github.com/CodeYourFuture/Module-Name-Module-Project
+- https://github.com/CodeYourFuture/Module-Name-Module-Project-Solution
 
 ## Tracks and Programmes
 
