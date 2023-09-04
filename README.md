@@ -65,6 +65,7 @@ There is a template repo to help us do this:
 - https://github.com/CodeYourFuture/Codewars-API-Project
 - https://github.com/CodeYourFuture/GitHub-Activity-Project
 - https://github.com/CodeYourFuture/CLI-Treasure-Hunt
+- https://github.com/CodeYourFuture/three-kata-websites
 
 ### Workshops live here in folders
 https://github.com/CodeYourFuture/CYF-Workshops 
