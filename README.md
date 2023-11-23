@@ -20,7 +20,7 @@ There is a template repo to help us do this:
 
 ### HTML-CSS
 - Module Repo https://github.com/CodeYourFuture/Module-HTML-CSS
-- Module Project. [Project](https://github.com/CodeYourFuture/HTML-CSS-Module-Project) | [Project Solution](https://github.com/CodeYourFuture/HTML-CSS-Module-Project-Solution)
+- Module Project. https://github.com/CodeYourFuture/HTML-CSS-Module-Project | [Project Solution](https://github.com/CodeYourFuture/HTML-CSS-Module-Project-Solution)
 - https://github.com/CodeYourFuture/Portfolio <== every trainee develops this portfolio over the entire programme
 
 ### JS1
@@ -34,7 +34,7 @@ There is a template repo to help us do this:
 
 ### JS3
 - Module Repo https://github.com/CodeYourFuture/Module-JS3
-- Module Project. [Project](https://github.com/CodeYourFuture/tv-show-dom-project) | [Solution](https://github.com/CodeYourFuture/tv-show-dom-project-solution)
+- Module Project. https://github.com/CodeYourFuture/JS3-Module-Project
 - [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-3-Assessment)
 
 ### React
