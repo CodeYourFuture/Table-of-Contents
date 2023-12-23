@@ -34,12 +34,12 @@ There is a template repo to help us do this:
 
 ### JS3
 - Module Repo https://github.com/CodeYourFuture/Module-JS3
-- Module Project. https://github.com/CodeYourFuture/JS3-Module-Project
+- Module Project. https://github.com/CodeYourFuture/JS3-Module-Project (TV Show)
 - [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-3-Assessment)
 
 ### React
 - Module Repo https://github.com/CodeYourFuture/Module-React
-- Module Project https://github.com/CodeYourFuture/cyf-hotel-react 
+- Module Project https://github.com/CodeYourFuture/React-Module-Project (React Hotel)
 - [Check In Assessment](https://github.com/CodeYourFuture/React-Assessment)
 
 ### Node
@@ -50,8 +50,11 @@ There is a template repo to help us do this:
 - Module Repo https://github.com/CodeYourFuture/Module-Databases
 - Module Project. [Full Stack Project Assessment](https://github.com/CodeYourFuture/Full-Stack-Project-Assessment)
 
-### Final Projects
-- https://github.com/CodeYourFuture/cyf-final-project-starter-kit 
+### The Launch 
+- Module Repo https://github.com/CodeYourFuture/Module-The-Launch
+- Current starter kit: https://github.com/CodeYourFuture/cyf-final-project-starter-kit 
+
+### Portfolio
 
 ### Group Projects
 - https://github.com/CodeYourFuture/CYF-Group-Projects
