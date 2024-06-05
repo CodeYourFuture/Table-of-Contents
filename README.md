@@ -3,10 +3,11 @@ Where everything is on this gigantic messy org account. Please add any crucial m
 
 ## ITP
 https://cyf-programming.netlify.app/ 
-https://github.com/CodeYourFuture/Module-User-Focused-Data
-https://github.com/CodeYourFuture/Module-Structuring-and-Testing-Data
-https://github.com/CodeYourFuture/Module-Data-Groups
-https://github.com/CodeYourFuture/Module-Data-Flows
+
+- https://github.com/CodeYourFuture/Module-User-Focused-Data
+- https://github.com/CodeYourFuture/Module-Structuring-and-Testing-Data
+- https://github.com/CodeYourFuture/Module-Data-Groups
+- https://github.com/CodeYourFuture/Module-Data-Flows
 
 ## The Current Curriculum https://github.com/CodeYourFuture/curriculum
 
