@@ -1,117 +1,85 @@
 # Table of Contents / Org Menu
-Where everything is on this gigantic messy org account. Please add any crucial module links.
+Where everything is on this gigantic messy org account. Please add any crucial links.
+
+[Workshops](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#workshops) | [Projects](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#projects) | [Curriculum](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#curriculum) | [ITD](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#ITD) | [ITP](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#ITP) | [Piscine](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#piscine) | [SDC](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#SDC) | [Launch](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#the-launch) | [Tracks](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#tracks)
+
+> [!IMPORTANT] 
+> Every trainee needs a planner and a portfolio and this is where those are
+>
+> - https://github.com/CodeYourFuture/Coursework-Planner
+> - https://github.com/CodeYourFuture/Portfolio
+
+## Workshops
+#### 📍 https://workshops.codeyourfuture.io/ 
+- https://github.com/CodeYourFuture/CYF-Workshops 
+
+## Projects
+#### 📍 https://projects.codeyourfuture.io/ 
+- https://github.com/CodeYourFuture/CYF-Projects
+
+## Curriculum
+####  📍 https://curriculum.codeyourfuture.io/
+- https://github.com/CodeYourFuture/curriculum
+- https://github.com/orgs/CodeYourFuture/projects/105
+
+
+> [!TIP] 
+> ### 🔗 Look for the link
+> Our websites are tightly integrated with GitHub. Click the 🔗 on a 📍 CYF site to find the source on GitHub
+
+# Individual courses
+
+## ITD
+#### 📍 https://cyf-itd.netlify.app/ *to be updated  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-itd)
 
 ## ITP
-https://cyf-programming.netlify.app/ 
+#### 📍 https://programming.codeyourfuture.io  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-itp)
+1. https://github.com/CodeYourFuture/Module-User-Focused-Data
+1. https://github.com/CodeYourFuture/Module-Structuring-and-Testing-Data
+1. https://github.com/CodeYourFuture/Module-Data-Groups
+1. https://github.com/CodeYourFuture/Module-Data-Flows
 
-- https://github.com/CodeYourFuture/Module-User-Focused-Data
-- https://github.com/CodeYourFuture/Module-Structuring-and-Testing-Data
-- https://github.com/CodeYourFuture/Module-Data-Groups
-- https://github.com/CodeYourFuture/Module-Data-Flows
+## The Piscine
+#### 📍 https://piscine.codeyourfuture.io/  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-piscine)
+1. https://github.com/CodeYourFuture/The-Piscine *name needs fixing
 
-## The Current Curriculum https://github.com/CodeYourFuture/curriculum
+## SDC
+#### 📍 https://sdc.codeyourfuture.io/  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-sdc)
+1. 🏗️ under construction
 
-[Git](#git) | [HTML-CSS](#html-css) | [JS1](#js1) | [JS2](#js2) | [JS3](#js3) | [React](#react) | [Node](#node) | [Databases](#databases) | [Final Projects](#final-projects)
+## The Launch
+#### 📍 https://launch.codeyourfuture.io/  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-launch)
 
-## Module Repos
+- https://github.com/CodeYourFuture/Module-The-Launch
+- [Full Stack Project Assessment](https://github.com/CodeYourFuture/Full-Stack-Project-Assessment)
+- https://github.com/CodeYourFuture/cyf-final-project-starter-kit 
+
+## Tracks
+#### 📍 https://tracks.codeyourfuture.io/  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-tracks)
+
+- https://github.com/CodeYourFuture/Module-React
+- https://github.com/CodeYourFuture/Module-Cloud
+- https://github.com/CodeYourFuture/Module-Portfolio
+
+-----------
+## Naming things
+Repos are of these types and you should prefix the type or your repo might be deleted in the future
+
+1. Module
+2. Course
+3. Project
+4. Workshop
+5. Product
+7. Ops
+8. Temporary
+9. Alum
+
+### Module Repos
 Each module should have its own coursework repo. The naming structure for mandatory work _should_ be consistent
 - **Coursework** https://github.com/CodeYourFuture/Module-Name
-- **Solution Guides** should be stored in a solutions branch
+- **Solution Guides** should be stored in a solutions branch on the repo
 There is a template repo to help us do this: 
 - https://github.com/CodeYourFuture/CYF-Module-Template 
-
-### Fundamentals, useful repos
-- Course Repo https://github.com/CodeYourFuture/Course-Fundamentals
-- https://github.com/CodeYourFuture/cyf-blocks-fundamentals
-- https://github.com/CodeYourFuture/Ship-It
-- https://github.com/CodeYourFuture/Coursework-Planner <== every trainee has one planner for all their work in all courses and modules
-
-### HTML-CSS
-- Module Repo https://github.com/CodeYourFuture/Module-HTML-CSS
-- Module Project. https://github.com/CodeYourFuture/HTML-CSS-Module-Project | [Project Solution](https://github.com/CodeYourFuture/HTML-CSS-Module-Project-Solution)
-- https://github.com/CodeYourFuture/Portfolio <== every trainee develops this portfolio over the entire programme
-
-### JS1
-- Module Repo https://github.com/CodeYourFuture/Module-JS1
-- Module Project: https://github.com/CodeYourFuture/CYF-Incremental-Development-Project
-- [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-1-Assessment)
-
-### JS2
-- Module Repo https://github.com/CodeYourFuture/Module-JS2
-- [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-2-Assessment)
-
-### JS3
-- Module Repo https://github.com/CodeYourFuture/Module-JS3
-- Module Project. https://github.com/CodeYourFuture/JS3-Module-Project (TV Show)
-- [Check In Assessment](https://github.com/CodeYourFuture/JavaScript-Core-3-Assessment)
-
-### React
-- Module Repo https://github.com/CodeYourFuture/Module-React
-- Module Project https://github.com/CodeYourFuture/React-Module-Project (React Hotel)
-- [Check In Assessment](https://github.com/CodeYourFuture/React-Assessment)
-
-### Node
-- Module Repo https://github.com/CodeYourFuture/Module-Node
-- Module Project [Project](https://github.com/CodeYourFuture/CYF-Slack-Your-Future-Project-Backend) | Solution???
-
-### Databases
-- Module Repo https://github.com/CodeYourFuture/Module-Databases
-- Module Project. [Full Stack Project Assessment](https://github.com/CodeYourFuture/Full-Stack-Project-Assessment)
-
-### The Launch 
-- Module Repo https://github.com/CodeYourFuture/Module-The-Launch
-- Current starter kit: https://github.com/CodeYourFuture/cyf-final-project-starter-kit 
-
-### Portfolio
-
-### Group Projects
-- https://github.com/CodeYourFuture/CYF-Group-Projects
-- https://github.com/CodeYourFuture/CYF-Incremental-Development-Project
-- https://github.com/CodeYourFuture/CYF-Code-Review-Group-Project
-- https://github.com/CodeYourFuture/group-project-jsf-time
-- https://github.com/CodeYourFuture/terminal-tic-tac-toe
-- https://github.com/CodeYourFuture/1000-Paper-Cranes
-
-## Solo Projects
-- https://github.com/CodeYourFuture/Codewars-API-Project
-- https://github.com/CodeYourFuture/GitHub-Activity-Project
-- https://github.com/CodeYourFuture/CLI-Treasure-Hunt
-- https://github.com/CodeYourFuture/three-kata-websites
-
-### Workshops live here in folders
-https://github.com/CodeYourFuture/CYF-Workshops 
-
-## Syllabus
-Syllabus is on the move! It lives here: https://github.com/CodeYourFuture/syllabus (soon moving to  https://github.com/CodeYourFuture/curriculum) and the project board is here: https://github.com/orgs/CodeYourFuture/projects/35
-
-We are building a module project repo for each module. These will be named like this:
-- https://github.com/CodeYourFuture/Module-Name-Module-Project
-- https://github.com/CodeYourFuture/Module-Name-Module-Project-Solution
-
-## Tracks and Programmes
-
-### Immersive Engineering
-- https://github.com/CodeYourFuture/immersive-go-course
-
-### Quality Engineering
-- https://github.com/CodeYourFuture/QE-Track
-
-### Cloud Track
-- https://github.com/CodeYourFuture/Cloud-Module-Week-0-Challenge
-
-### DevOps Track
-- https://github.com/CodeYourFuture/devops-module-1
-- https://github.com/CodeYourFuture/DevOps-Basics-Slack-Relay
-- https://github.com/CodeYourFuture/DevOps-Basics-Lesson-3-London8
-- https://github.com/CodeYourFuture/DevOps-Advanced-Shared-Server
-
-### Front End Track
-- https://github.com/CodeYourFuture/1000-Paper-Cranes
-- https://github.com/CodeYourFuture/Web-Developer-Requirements-Project
-- https://github.com/CodeYourFuture/CYF-Record-A-Goose-Project 
-- https://github.com/CodeYourFuture/CYF-Sass-In-React
-- https://github.com/CodeYourFuture/wordpress-module
-
 
 
 
