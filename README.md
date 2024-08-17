@@ -1,7 +1,7 @@
 # Table of Contents / Org Menu
 Where everything is on this gigantic messy org account. Please add any crucial links.
 
-[Workshops](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#workshops) | [Projects](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#projects) | [Curriculum](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#curriculum) | [ITD](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#ITD) | [ITP](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#ITP) | [Piscine](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#piscine) | [SDC](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#SDC) | [Launch](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#the-launch) | [Tracks](https://github.com/CodeYourFuture/Table-of-Contents/edit/main/README.md#tracks)
+[Workshops](#workshops) | [Projects](#projects) | [Curriculum](#curriculum) | [ITD](#ITD) | [ITP](#ITP) | [Piscine](#the-piscine) | [SDC](#SDC) | [Launch](#the-launch) | [Tracks](#tracks)
 
 > [!IMPORTANT] 
 > Every trainee needs a planner and a portfolio and this is where those are
