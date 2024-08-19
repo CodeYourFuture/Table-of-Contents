@@ -79,7 +79,11 @@ Each module should have its own coursework repo. The naming structure for mandat
 - **Coursework** https://github.com/CodeYourFuture/Module-Name
 - **Solution Guides** should be stored in a solutions branch on the repo
 There is a template repo to help us do this: 
-- https://github.com/CodeYourFuture/CYF-Module-Template 
+- https://github.com/CodeYourFuture/CYF-Module-Template
+
+### Courses, Tracks
+And there's a template for building a whole site, which contains within it a script to generate a module template for the site, in case I get hit by a bus
+- https://github.com/CodeYourFuture/CYF-Common-Theme-Template/
 
 
 
