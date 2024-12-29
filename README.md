@@ -30,7 +30,8 @@ Where everything is on this gigantic messy org account. Please add any crucial l
 # Individual courses
 
 ## ITD
-#### 📍 https://cyf-itd.netlify.app/ *to be updated  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-itd)
+#### 📍 https://itd.codeyourfuture.io/  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-itd)
+1. No attached modules as nobody knows how to use GitHub yet!
 
 ## ITP
 #### 📍 https://programming.codeyourfuture.io  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-itp)
@@ -62,6 +63,7 @@ Where everything is on this gigantic messy org account. Please add any crucial l
 - https://github.com/CodeYourFuture/Module-Portfolio
 
 -----------
+
 ## Naming things
 Repos are of these types and you should prefix the type or your repo might be deleted in the future
 
