@@ -34,7 +34,7 @@ Where everything is on this gigantic messy org account. Please add any crucial l
 
 ## ITP
 #### 📍 https://programming.codeyourfuture.io  [:octocat:](https://github.com/CodeYourFuture/curriculum/org-cyf-itp)
-1. https://github.com/CodeYourFuture/Module-User-Focused-Data
+1. https://github.com/CodeYourFuture/Module-Onboarding
 1. https://github.com/CodeYourFuture/Module-Structuring-and-Testing-Data
 1. https://github.com/CodeYourFuture/Module-Data-Groups
 1. https://github.com/CodeYourFuture/Module-Data-Flows
